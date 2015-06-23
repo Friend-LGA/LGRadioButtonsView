@@ -1,0 +1,19 @@
+PODS:
+  - LGDrawer (1.0.0)
+  - LGRadioButtonsView (1.0.0)
+
+DEPENDENCIES:
+  - LGDrawer (from `../../LGDrawer`)
+  - LGRadioButtonsView (from `../`)
+
+EXTERNAL SOURCES:
+  LGDrawer:
+    :path: ../../LGDrawer
+  LGRadioButtonsView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LGDrawer: 7ceea97b27a6b23e8eb691210ca180c897025513
+  LGRadioButtonsView: 6c03936517d946651cb60d4feb2f05a2647ef6a1
+
+COCOAPODS: 0.37.2
