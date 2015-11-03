@@ -114,6 +114,7 @@
 				4A3F451C1AC562960057CC3A /* Frameworks */,
 				4A3F451D1AC562960057CC3A /* Resources */,
 				E4C9F334B1F88FF9C6E26540 /* Copy Pods Resources */,
+				0B6C24AC9C807CD06766CBB4 /* Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -168,6 +169,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		0B6C24AC9C807CD06766CBB4 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LGRadioButtonsViewDemo/Pods-LGRadioButtonsViewDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		AFF8C54798CE64055D1BDFDC /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
