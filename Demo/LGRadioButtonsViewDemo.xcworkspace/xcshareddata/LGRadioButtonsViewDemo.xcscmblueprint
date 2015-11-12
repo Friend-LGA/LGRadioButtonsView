@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA3C99981A2694E044FF38398BE999885261E23D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CA3C99981A2694E044FF38398BE999885261E23D" : 0,
+    "8C7BAE8A443A6327026687B5FEAD2A6BED527DDD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "35D2CC37-89A8-49D0-AD4D-B56A9E369E18",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CA3C99981A2694E044FF38398BE999885261E23D" : "LGRadioButtonsView",
+    "8C7BAE8A443A6327026687B5FEAD2A6BED527DDD" : "LGDrawer"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LGRadioButtonsViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo\/LGRadioButtonsViewDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Friend-LGA\/LGDrawer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C7BAE8A443A6327026687B5FEAD2A6BED527DDD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Friend-LGA\/LGRadioButtonsView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA3C99981A2694E044FF38398BE999885261E23D"
+    }
+  ]
+}

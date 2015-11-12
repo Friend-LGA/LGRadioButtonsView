@@ -10,7 +10,7 @@
 		46D57010C5B892ECCE56B2FE /* libPods-LGRadioButtonsViewDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7877EAAB72E52A401DB3BCE7 /* libPods-LGRadioButtonsViewDemo.a */; };
 		4A3F45251AC562960057CC3A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A3F45241AC562960057CC3A /* main.m */; };
 		4A3F45281AC562960057CC3A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A3F45271AC562960057CC3A /* AppDelegate.m */; };
-		4A3F452B1AC562960057CC3A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A3F452A1AC562960057CC3A /* ViewController.m */; };
+		4A3F452B1AC562960057CC3A /* RadioButtonsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A3F452A1AC562960057CC3A /* RadioButtonsViewController.m */; };
 		4A3F45301AC562960057CC3A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A3F452F1AC562960057CC3A /* Images.xcassets */; };
 		4A3F454A1AC56CA20057CC3A /* NavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A3F45491AC56CA20057CC3A /* NavigationController.m */; };
 /* End PBXBuildFile section */
@@ -21,8 +21,8 @@
 		4A3F45241AC562960057CC3A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4A3F45261AC562960057CC3A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4A3F45271AC562960057CC3A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4A3F45291AC562960057CC3A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		4A3F452A1AC562960057CC3A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4A3F45291AC562960057CC3A /* RadioButtonsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RadioButtonsViewController.h; sourceTree = "<group>"; };
+		4A3F452A1AC562960057CC3A /* RadioButtonsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RadioButtonsViewController.m; sourceTree = "<group>"; };
 		4A3F452F1AC562960057CC3A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		4A3F45481AC56CA20057CC3A /* NavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationController.h; sourceTree = "<group>"; };
 		4A3F45491AC56CA20057CC3A /* NavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationController.m; sourceTree = "<group>"; };
@@ -77,8 +77,8 @@
 				4A3F45271AC562960057CC3A /* AppDelegate.m */,
 				4A3F45481AC56CA20057CC3A /* NavigationController.h */,
 				4A3F45491AC56CA20057CC3A /* NavigationController.m */,
-				4A3F45291AC562960057CC3A /* ViewController.h */,
-				4A3F452A1AC562960057CC3A /* ViewController.m */,
+				4A3F45291AC562960057CC3A /* RadioButtonsViewController.h */,
+				4A3F452A1AC562960057CC3A /* RadioButtonsViewController.m */,
 				4A3F452F1AC562960057CC3A /* Images.xcassets */,
 				4A3F45221AC562960057CC3A /* Supporting Files */,
 			);
@@ -221,7 +221,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A3F452B1AC562960057CC3A /* ViewController.m in Sources */,
+				4A3F452B1AC562960057CC3A /* RadioButtonsViewController.m in Sources */,
 				4A3F454A1AC56CA20057CC3A /* NavigationController.m in Sources */,
 				4A3F45281AC562960057CC3A /* AppDelegate.m in Sources */,
 				4A3F45251AC562960057CC3A /* main.m in Sources */,

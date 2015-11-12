@@ -7,11 +7,11 @@
 //
 
 #import "NavigationController.h"
-#import "ViewController.h"
+#import "RadioButtonsViewController.h"
 
 @interface NavigationController ()
 
-@property (strong, nonatomic) ViewController *viewController;
+@property (strong, nonatomic) RadioButtonsViewController *viewController;
 
 @end
 
@@ -22,7 +22,7 @@
     self = [super init];
     if (self)
     {
-        self.viewController = [ViewController new];
+        self.viewController = [RadioButtonsViewController new];
         [self setViewControllers:@[self.viewController]];
     }
     return self;

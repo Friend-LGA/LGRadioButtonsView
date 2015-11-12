@@ -6,11 +6,11 @@
 //  Copyright (c) 2015 Grigory Lutkov. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "RadioButtonsViewController.h"
 #import "LGRadioButtonsView.h"
 #import "LGDrawer.h"
 
-@interface ViewController ()
+@interface RadioButtonsViewController ()
 
 @property (strong, nonatomic) UIScrollView          *scrollView;
 @property (strong, nonatomic) LGRadioButtonsView    *radioButtons1;
@@ -19,7 +19,7 @@
 
 @end
 
-@implementation ViewController
+@implementation RadioButtonsViewController
 
 - (id)init
 {
